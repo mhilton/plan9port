@@ -524,6 +524,7 @@ Image		*colbutton;
 Image		*button;
 Image		*but2col;
 Image		*but3col;
+Image		*rowback;
 Cursor		boxcursor;
 Cursor2		boxcursor2;
 Row			row;
